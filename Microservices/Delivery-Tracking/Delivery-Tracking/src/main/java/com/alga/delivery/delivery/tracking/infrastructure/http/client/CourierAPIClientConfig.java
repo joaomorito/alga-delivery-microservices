@@ -1,6 +1,5 @@
 package com.alga.delivery.delivery.tracking.infrastructure.http.client;
 
-import org.springframework.boot.autoconfigure.elasticsearch.ElasticsearchProperties;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
